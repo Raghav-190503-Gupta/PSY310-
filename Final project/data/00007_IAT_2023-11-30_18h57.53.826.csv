@@ -1,0 +1,1002 @@
+﻿instructions,categoryA,categoryB,leftAttribute,rightAttribute,orStimulus,trial_type,stimulusText,stimulusImage,blocks.thisRepN,blocks.thisTrialN,blocks.thisN,blocks.thisIndex,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,thisRow.t,notes,explicit.started,slider.started,text.started,explicit.stopped,slider.response,slider.rt,instruction.started,instructionsBox.started,leftCategoryLabel_2.started,rightCategoryLabel_2.started,leftAttributeLabel_2.started,rightAttributeLabel_2.started,orLeft_2.started,orRight_2.started,instructionsKey.started,instruction.stopped,trial.started,leftCategoryLabel.started,rightCategoryLabel.started,leftAttributeLabel.started,rightAttributeLabel.started,orLeft.started,orRight.started,stimulusImageBox.started,stimulusTextBox.started,requiredResponse.started,feedbackResponse.started,feedback.started,trial.stopped,requiredResponse.keys,requiredResponse.corr,requiredResponse.rt,requiredResponse.duration,feedbackResponse.keys,feedbackResponse.corr,feedbackResponse.rt,feedbackResponse.duration,end.started,endBox.started,end.stopped,gender,age,participant,date,expName,psychopyVersion,frameRate,expStart,
+"Put your middle or index fingers on the E and I keys of your keyboard. Words representing the categories at the top will appear one-by-one in the middle of the screen. When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. If you make an error, an X will appear - fix the error by hitting the other key.
+
+This is a timed sorting task. GO AS FAST AS YOU CAN while making as few mistakes as possible. Going too slow or making too many errors will result in an uninterpretable score. This task will take about 5 minutes to complete.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,0,0,0,0,0,0,1,8.546191799920052,,0.018790600122883916,0.06898450013250113,0.06898450013250113,2.9463414000347257,2.9781250000000004,2.8895843999926,2.970720099983737,3.723790599964559,3.723790599964559,3.723790599964559,3.723790599964559,3.723790599964559,3.723790599964559,3.723790599964559,5.710584900109097,8.465131900040433,8.491072400007397,8.546191799920052,8.546191799920052,8.546191799920052,8.546191799920052,8.546191799920052,8.546191799920052,8.829227700131014,8.829227700131014,8.829227700131014,8.829227700131014,8.829227700131014,9.466844199923798,e,1,0.614356999984011,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Put your middle or index fingers on the E and I keys of your keyboard. Words representing the categories at the top will appear one-by-one in the middle of the screen. When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. If you make an error, an X will appear - fix the error by hitting the other key.
+
+This is a timed sorting task. GO AS FAST AS YOU CAN while making as few mistakes as possible. Going too slow or making too many errors will result in an uninterpretable score. This task will take about 5 minutes to complete.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,0,0,0,0,1,1,1,9.497749800095335,,,,,,,,,,,,,,,,,,9.468690800014883,9.497749800095335,9.497749800095335,9.497749800095335,9.497749800095335,9.497749800095335,9.497749800095335,9.781878700014204,9.781878700014204,9.781878700014204,9.781878700014204,9.781878700014204,10.40251010004431,e,1,0.6158611001446843,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Put your middle or index fingers on the E and I keys of your keyboard. Words representing the categories at the top will appear one-by-one in the middle of the screen. When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. If you make an error, an X will appear - fix the error by hitting the other key.
+
+This is a timed sorting task. GO AS FAST AS YOU CAN while making as few mistakes as possible. Going too slow or making too many errors will result in an uninterpretable score. This task will take about 5 minutes to complete.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,0,0,0,1,0,2,1,10.431432700017467,,,,,,,,,,,,,,,,,,10.403950799955055,10.431432700017467,10.431432700017467,10.431432700017467,10.431432700017467,10.431432700017467,10.431432700017467,10.732393200043589,10.732393200043589,10.732393200043589,10.732393200043589,10.732393200043589,11.201139000011608,e,1,0.45465580001473427,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Put your middle or index fingers on the E and I keys of your keyboard. Words representing the categories at the top will appear one-by-one in the middle of the screen. When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. If you make an error, an X will appear - fix the error by hitting the other key.
+
+This is a timed sorting task. GO AS FAST AS YOU CAN while making as few mistakes as possible. Going too slow or making too many errors will result in an uninterpretable score. This task will take about 5 minutes to complete.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,0,0,0,1,1,3,0,11.232246099971235,,,,,,,,,,,,,,,,,,11.202599999960512,11.232246099971235,11.232246099971235,11.232246099971235,11.232246099971235,11.232246099971235,11.232246099971235,11.53355920012109,11.53355920012109,11.53355920012109,11.53355920012109,11.53355920012109,12.137250199913979,i,1,0.5761116000358015,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Put your middle or index fingers on the E and I keys of your keyboard. Words representing the categories at the top will appear one-by-one in the middle of the screen. When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. If you make an error, an X will appear - fix the error by hitting the other key.
+
+This is a timed sorting task. GO AS FAST AS YOU CAN while making as few mistakes as possible. Going too slow or making too many errors will result in an uninterpretable score. This task will take about 5 minutes to complete.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,0,0,0,2,0,4,0,12.1667075001169,,,,,,,,,,,,,,,,,,12.138649299973622,12.1667075001169,12.1667075001169,12.1667075001169,12.1667075001169,12.1667075001169,12.1667075001169,12.46836300007999,12.46836300007999,12.46836300007999,12.46836300007999,12.46836300007999,12.954709199955687,i,1,0.47517170011997223,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Put your middle or index fingers on the E and I keys of your keyboard. Words representing the categories at the top will appear one-by-one in the middle of the screen. When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. If you make an error, an X will appear - fix the error by hitting the other key.
+
+This is a timed sorting task. GO AS FAST AS YOU CAN while making as few mistakes as possible. Going too slow or making too many errors will result in an uninterpretable score. This task will take about 5 minutes to complete.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,0,0,0,2,1,5,0,12.984102600021288,,,,,,,,,,,,,,,,,,12.955721900099888,12.984102600021288,12.984102600021288,12.984102600021288,12.984102600021288,12.984102600021288,12.984102600021288,13.284997600130737,13.284997600130737,13.284997600130737,13.284997600130737,13.284997600130737,13.820831400109455,i,1,0.5040909999515861,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Put your middle or index fingers on the E and I keys of your keyboard. Words representing the categories at the top will appear one-by-one in the middle of the screen. When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. If you make an error, an X will appear - fix the error by hitting the other key.
+
+This is a timed sorting task. GO AS FAST AS YOU CAN while making as few mistakes as possible. Going too slow or making too many errors will result in an uninterpretable score. This task will take about 5 minutes to complete.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,0,0,0,3,0,6,1,13.853056099964306,,,,,,,,,,,,,,,,,,13.82211730000563,13.853056099964306,13.853056099964306,13.853056099964306,13.853056099964306,13.853056099964306,13.853056099964306,14.152676499914378,14.152676499914378,14.152676499914378,14.152676499914378,14.152676499914378,14.690041699912399,e,1,0.508586399955675,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Put your middle or index fingers on the E and I keys of your keyboard. Words representing the categories at the top will appear one-by-one in the middle of the screen. When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. If you make an error, an X will appear - fix the error by hitting the other key.
+
+This is a timed sorting task. GO AS FAST AS YOU CAN while making as few mistakes as possible. Going too slow or making too many errors will result in an uninterpretable score. This task will take about 5 minutes to complete.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,0,0,0,3,1,7,1,14.719942700117826,,,,,,,,,,,,,,,,,,14.691342599922791,14.719942700117826,14.719942700117826,14.719942700117826,14.719942700117826,14.719942700117826,14.719942700117826,15.004530400037766,15.004530400037766,15.004530400037766,15.004530400037766,15.004530400037766,15.59036669996567,e,1,0.552515699993819,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Put your middle or index fingers on the E and I keys of your keyboard. Words representing the categories at the top will appear one-by-one in the middle of the screen. When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. If you make an error, an X will appear - fix the error by hitting the other key.
+
+This is a timed sorting task. GO AS FAST AS YOU CAN while making as few mistakes as possible. Going too slow or making too many errors will result in an uninterpretable score. This task will take about 5 minutes to complete.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,0,0,0,4,0,8,0,15.621140599949285,,,,,,,,,,,,,,,,,,15.59164769994095,15.621140599949285,15.621140599949285,15.621140599949285,15.621140599949285,15.621140599949285,15.621140599949285,15.921516499947757,15.921516499947757,15.921516499947757,15.921516499947757,15.921516499947757,16.49145400011912,i,1,0.5637861001305282,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Put your middle or index fingers on the E and I keys of your keyboard. Words representing the categories at the top will appear one-by-one in the middle of the screen. When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. If you make an error, an X will appear - fix the error by hitting the other key.
+
+This is a timed sorting task. GO AS FAST AS YOU CAN while making as few mistakes as possible. Going too slow or making too many errors will result in an uninterpretable score. This task will take about 5 minutes to complete.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,0,0,0,4,1,9,1,16.521415800089017,,,,,,,,,,,,,,,,,,16.492737299995497,16.521415800089017,16.521415800089017,16.521415800089017,16.521415800089017,16.521415800089017,16.521415800089017,16.806659599998966,16.806659599998966,16.806659599998966,16.806659599998966,16.806659599998966,17.42495399992913,e,1,0.6036549999844283,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Put your middle or index fingers on the E and I keys of your keyboard. Words representing the categories at the top will appear one-by-one in the middle of the screen. When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. If you make an error, an X will appear - fix the error by hitting the other key.
+
+This is a timed sorting task. GO AS FAST AS YOU CAN while making as few mistakes as possible. Going too slow or making too many errors will result in an uninterpretable score. This task will take about 5 minutes to complete.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,0,0,0,5,0,10,0,17.45594309992157,,,,,,,,,,,,,,,,,,17.426341600017622,17.45594309992157,17.45594309992157,17.45594309992157,17.45594309992157,17.45594309992157,17.45594309992157,17.755858999909833,17.755858999909833,17.755858999909833,17.755858999909833,17.755858999909833,18.44560520001687,i,1,0.6798132001422346,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Put your middle or index fingers on the E and I keys of your keyboard. Words representing the categories at the top will appear one-by-one in the middle of the screen. When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. If you make an error, an X will appear - fix the error by hitting the other key.
+
+This is a timed sorting task. GO AS FAST AS YOU CAN while making as few mistakes as possible. Going too slow or making too many errors will result in an uninterpretable score. This task will take about 5 minutes to complete.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,0,0,0,5,1,11,1,18.47428909991868,,,,,,,,,,,,,,,,,,18.44690650003031,18.47428909991868,18.47428909991868,18.47428909991868,18.47428909991868,18.47428909991868,18.47428909991868,18.758617999963462,18.758617999963462,18.758617999963462,18.758617999963462,18.758617999963462,19.360821400070563,e,1,0.5703206998296082,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Put your middle or index fingers on the E and I keys of your keyboard. Words representing the categories at the top will appear one-by-one in the middle of the screen. When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. If you make an error, an X will appear - fix the error by hitting the other key.
+
+This is a timed sorting task. GO AS FAST AS YOU CAN while making as few mistakes as possible. Going too slow or making too many errors will result in an uninterpretable score. This task will take about 5 minutes to complete.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,0,0,0,6,0,12,0,19.391921400092542,,,,,,,,,,,,,,,,,,19.36216180003248,19.391921400092542,19.391921400092542,19.391921400092542,19.391921400092542,19.391921400092542,19.391921400092542,19.692504100035876,19.692504100035876,19.692504100035876,19.692504100035876,19.692504100035876,20.345228400081396,i,1,0.6197454999201,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Put your middle or index fingers on the E and I keys of your keyboard. Words representing the categories at the top will appear one-by-one in the middle of the screen. When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. If you make an error, an X will appear - fix the error by hitting the other key.
+
+This is a timed sorting task. GO AS FAST AS YOU CAN while making as few mistakes as possible. Going too slow or making too many errors will result in an uninterpretable score. This task will take about 5 minutes to complete.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,0,0,0,6,1,13,1,20.37545370007865,,,,,,,,,,,,,,,,,,20.346656400011852,20.37545370007865,20.37545370007865,20.37545370007865,20.37545370007865,20.37545370007865,20.37545370007865,20.676309100119397,20.676309100119397,20.676309100119397,20.676309100119397,20.676309100119397,21.6291012999136,e,1,0.922036400064826,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Put your middle or index fingers on the E and I keys of your keyboard. Words representing the categories at the top will appear one-by-one in the middle of the screen. When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. If you make an error, an X will appear - fix the error by hitting the other key.
+
+This is a timed sorting task. GO AS FAST AS YOU CAN while making as few mistakes as possible. Going too slow or making too many errors will result in an uninterpretable score. This task will take about 5 minutes to complete.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,0,0,0,7,0,14,1,21.66079939994961,,,,,,,,,,,,,,,,,,21.63041350012645,21.66079939994961,21.66079939994961,21.66079939994961,21.66079939994961,21.66079939994961,21.66079939994961,21.962006099987775,21.962006099987775,21.962006099987775,21.962006099987775,21.962006099987775,22.53029470006004,e,1,0.5501184000167996,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Put your middle or index fingers on the E and I keys of your keyboard. Words representing the categories at the top will appear one-by-one in the middle of the screen. When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. If you make an error, an X will appear - fix the error by hitting the other key.
+
+This is a timed sorting task. GO AS FAST AS YOU CAN while making as few mistakes as possible. Going too slow or making too many errors will result in an uninterpretable score. This task will take about 5 minutes to complete.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,0,0,0,7,1,15,0,22.560764600057155,,,,,,,,,,,,,,,,,,22.531591800041497,22.560764600057155,22.560764600057155,22.560764600057155,22.560764600057155,22.560764600057155,22.560764600057155,22.846401599934325,22.846401599934325,22.846401599934325,22.846401599934325,22.846401599934325,23.45026049995795,i,1,0.6002559999469668,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Put your middle or index fingers on the E and I keys of your keyboard. Words representing the categories at the top will appear one-by-one in the middle of the screen. When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. If you make an error, an X will appear - fix the error by hitting the other key.
+
+This is a timed sorting task. GO AS FAST AS YOU CAN while making as few mistakes as possible. Going too slow or making too many errors will result in an uninterpretable score. This task will take about 5 minutes to complete.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,0,0,0,8,0,16,0,23.47844390012324,,,,,,,,,,,,,,,,,,23.45154849998653,23.47844390012324,23.47844390012324,23.47844390012324,23.47844390012324,23.47844390012324,23.47844390012324,23.7644205999095,23.7644205999095,23.7644205999095,23.7644205999095,23.7644205999095,24.25091170007363,i,1,0.4767994999419898,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Put your middle or index fingers on the E and I keys of your keyboard. Words representing the categories at the top will appear one-by-one in the middle of the screen. When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. If you make an error, an X will appear - fix the error by hitting the other key.
+
+This is a timed sorting task. GO AS FAST AS YOU CAN while making as few mistakes as possible. Going too slow or making too many errors will result in an uninterpretable score. This task will take about 5 minutes to complete.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,0,0,0,8,1,17,1,24.281491399975494,,,,,,,,,,,,,,,,,,24.252552499994636,24.281491399975494,24.281491399975494,24.281491399975494,24.281491399975494,24.281491399975494,24.281491399975494,24.580541100120172,24.580541100120172,24.580541100120172,24.580541100120172,24.580541100120172,25.185364000033587,e,1,0.569783000042662,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Put your middle or index fingers on the E and I keys of your keyboard. Words representing the categories at the top will appear one-by-one in the middle of the screen. When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. If you make an error, an X will appear - fix the error by hitting the other key.
+
+This is a timed sorting task. GO AS FAST AS YOU CAN while making as few mistakes as possible. Going too slow or making too many errors will result in an uninterpretable score. This task will take about 5 minutes to complete.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,0,0,0,9,0,18,0,25.21520210010931,,,,,,,,,,,,,,,,,,25.186696900054812,25.21520210010931,25.21520210010931,25.21520210010931,25.21520210010931,25.21520210010931,25.21520210010931,25.500132099958137,25.500132099958137,25.500132099958137,25.500132099958137,25.500132099958137,26.117575800046325,i,1,0.5890637000557035,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Put your middle or index fingers on the E and I keys of your keyboard. Words representing the categories at the top will appear one-by-one in the middle of the screen. When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. If you make an error, an X will appear - fix the error by hitting the other key.
+
+This is a timed sorting task. GO AS FAST AS YOU CAN while making as few mistakes as possible. Going too slow or making too many errors will result in an uninterpretable score. This task will take about 5 minutes to complete.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,0,0,0,9,1,19,0,26.14975060010329,,,,,,,,,,,,,,,,,,26.118976700119674,26.14975060010329,26.14975060010329,26.14975060010329,26.14975060010329,26.14975060010329,26.14975060010329,26.433711499907076,26.433711499907076,26.433711499907076,26.433711499907076,26.433711499907076,26.91947100008838,i,1,0.46075290022417903,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the categories have changed. The items for sorting have changed as well. The rules, however, are the same.
+
+When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. An X appears after an error - fix the error by hitting the other key. GO AS FAST AS YOU CAN.
+
+Press E or I to continue.", , ,Negative,Positive, ,4,text_trial_type_4,img_trial_type_4,0,1,1,1,0,0,0,1,30.27144469995983,,,,,,,,26.92073790007271,27.70070970011875,27.70070970011875,27.70070970011875,27.70070970011875,27.70070970011875,27.70070970011875,27.70070970011875,29.670444200048223,30.18911990011111,30.212992599932477,30.27144469995983,30.27144469995983,30.27144469995983,30.27144469995983,30.27144469995983,30.27144469995983,30.521393300034106,30.521393300034106,30.521393300034106,30.521393300034106,30.521393300034106,31.27446709992364,e,1,0.7210445001255721,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the categories have changed. The items for sorting have changed as well. The rules, however, are the same.
+
+When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. An X appears after an error - fix the error by hitting the other key. GO AS FAST AS YOU CAN.
+
+Press E or I to continue.", , ,Negative,Positive, ,4,text_trial_type_4,img_trial_type_4,0,1,1,1,0,1,1,1,31.32133619999513,,,,,,,,,,,,,,,,,,31.276193599915132,31.32133619999513,31.32133619999513,31.32133619999513,31.32133619999513,31.32133619999513,31.32133619999513,31.604833000106737,31.604833000106737,31.604833000106737,31.604833000106737,31.604833000106737,32.0588376999367,e,1,0.45133810001425445,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the categories have changed. The items for sorting have changed as well. The rules, however, are the same.
+
+When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. An X appears after an error - fix the error by hitting the other key. GO AS FAST AS YOU CAN.
+
+Press E or I to continue.", , ,Negative,Positive, ,4,text_trial_type_4,img_trial_type_4,0,1,1,1,1,0,2,1,32.10564920003526,,,,,,,,,,,,,,,,,,32.06016770005226,32.10564920003526,32.10564920003526,32.10564920003526,32.10564920003526,32.10564920003526,32.10564920003526,32.39067790005356,32.39067790005356,32.39067790005356,32.39067790005356,32.39067790005356,32.8916559999343,e,1,0.478783099912107,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the categories have changed. The items for sorting have changed as well. The rules, however, are the same.
+
+When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. An X appears after an error - fix the error by hitting the other key. GO AS FAST AS YOU CAN.
+
+Press E or I to continue.", , ,Negative,Positive, ,4,text_trial_type_4,img_trial_type_4,0,1,1,1,1,1,3,1,32.94077520002611,,,,,,,,,,,,,,,,,,32.892928699962795,32.94077520002611,32.94077520002611,32.94077520002611,32.94077520002611,32.94077520002611,32.94077520002611,33.20780520001426,33.20780520001426,33.20780520001426,33.20780520001426,33.20780520001426,33.62752919993363,e,1,0.3948470999021083,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the categories have changed. The items for sorting have changed as well. The rules, however, are the same.
+
+When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. An X appears after an error - fix the error by hitting the other key. GO AS FAST AS YOU CAN.
+
+Press E or I to continue.", , ,Negative,Positive, ,3,text_trial_type_3,img_trial_type_3,0,1,1,1,2,0,4,0,33.68986829998903,,,,,,,,,,,,,,,,,,33.628908100072294,33.68986829998903,33.68986829998903,33.68986829998903,33.68986829998903,33.68986829998903,33.68986829998903,33.95878460002132,33.95878460002132,33.95878460002132,33.95878460002132,33.95878460002132,34.444534100126475,i,1,0.45227290014736354,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the categories have changed. The items for sorting have changed as well. The rules, however, are the same.
+
+When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. An X appears after an error - fix the error by hitting the other key. GO AS FAST AS YOU CAN.
+
+Press E or I to continue.", , ,Negative,Positive, ,3,text_trial_type_3,img_trial_type_3,0,1,1,1,2,1,5,0,34.49129940010607,,,,,,,,,,,,,,,,,,34.44591249991208,34.49129940010607,34.49129940010607,34.49129940010607,34.49129940010607,34.49129940010607,34.49129940010607,34.77606440009549,34.77606440009549,34.77606440009549,34.77606440009549,34.77606440009549,35.27925970009528,i,1,0.5000052000395954,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the categories have changed. The items for sorting have changed as well. The rules, however, are the same.
+
+When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. An X appears after an error - fix the error by hitting the other key. GO AS FAST AS YOU CAN.
+
+Press E or I to continue.", , ,Negative,Positive, ,3,text_trial_type_3,img_trial_type_3,0,1,1,1,3,0,6,0,35.32544429996051,,,,,,,,,,,,,,,,,,35.280582499923185,35.32544429996051,35.32544429996051,35.32544429996051,35.32544429996051,35.32544429996051,35.32544429996051,35.611037200083956,35.611037200083956,35.611037200083956,35.611037200083956,35.611037200083956,36.14675860013813,i,1,0.5035814000293612,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the categories have changed. The items for sorting have changed as well. The rules, however, are the same.
+
+When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. An X appears after an error - fix the error by hitting the other key. GO AS FAST AS YOU CAN.
+
+Press E or I to continue.", , ,Negative,Positive, ,3,text_trial_type_3,img_trial_type_3,0,1,1,1,3,1,7,0,36.19434650009498,,,,,,,,,,,,,,,,,,36.148040200117975,36.19434650009498,36.19434650009498,36.19434650009498,36.19434650009498,36.19434650009498,36.19434650009498,36.462018500082195,36.462018500082195,36.462018500082195,36.462018500082195,36.462018500082195,36.93012130004354,i,1,0.4458951000124216,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the categories have changed. The items for sorting have changed as well. The rules, however, are the same.
+
+When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. An X appears after an error - fix the error by hitting the other key. GO AS FAST AS YOU CAN.
+
+Press E or I to continue.", , ,Negative,Positive, ,4,text_trial_type_4,img_trial_type_4,0,1,1,1,4,0,8,1,36.97788599994965,,,,,,,,,,,,,,,,,,36.93140850006603,36.97788599994965,36.97788599994965,36.97788599994965,36.97788599994965,36.97788599994965,36.97788599994965,37.26256770011969,37.26256770011969,37.26256770011969,37.26256770011969,37.26256770011969,37.91578070004471,e,1,0.635350099997595,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the categories have changed. The items for sorting have changed as well. The rules, however, are the same.
+
+When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. An X appears after an error - fix the error by hitting the other key. GO AS FAST AS YOU CAN.
+
+Press E or I to continue.", , ,Negative,Positive, ,3,text_trial_type_3,img_trial_type_3,0,1,1,1,4,1,9,0,37.977980700088665,,,,,,,,,,,,,,,,,,37.91706610005349,37.977980700088665,37.977980700088665,37.977980700088665,37.977980700088665,37.977980700088665,37.977980700088665,38.246384399943054,38.246384399943054,38.246384399943054,38.246384399943054,38.246384399943054,39.04922170005739,i,1,0.7964939000084996,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the categories have changed. The items for sorting have changed as well. The rules, however, are the same.
+
+When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. An X appears after an error - fix the error by hitting the other key. GO AS FAST AS YOU CAN.
+
+Press E or I to continue.", , ,Negative,Positive, ,3,text_trial_type_3,img_trial_type_3,0,1,1,1,5,0,10,0,39.096537800040096,,,,,,,,,,,,,,,,,,39.05050430004485,39.096537800040096,39.096537800040096,39.096537800040096,39.096537800040096,39.096537800040096,39.096537800040096,39.365168899996206,39.365168899996206,39.365168899996206,39.365168899996206,39.365168899996206,39.849988400004804,i,1,0.466493499930948,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the categories have changed. The items for sorting have changed as well. The rules, however, are the same.
+
+When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. An X appears after an error - fix the error by hitting the other key. GO AS FAST AS YOU CAN.
+
+Press E or I to continue.", , ,Negative,Positive, ,4,text_trial_type_4,img_trial_type_4,0,1,1,1,5,1,11,1,39.89831249997951,,,,,,,,,,,,,,,,,,39.85177649999969,39.89831249997951,39.89831249997951,39.89831249997951,39.89831249997951,39.89831249997951,39.89831249997951,40.18194429995492,40.18194429995492,40.18194429995492,40.18194429995492,40.18194429995492,40.68539800005965,e,1,0.49800739996135235,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the categories have changed. The items for sorting have changed as well. The rules, however, are the same.
+
+When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. An X appears after an error - fix the error by hitting the other key. GO AS FAST AS YOU CAN.
+
+Press E or I to continue.", , ,Negative,Positive, ,3,text_trial_type_3,img_trial_type_3,0,1,1,1,6,0,12,0,40.731819299981,,,,,,,,,,,,,,,,,,40.6866888999939,40.731819299981,40.731819299981,40.731819299981,40.731819299981,40.731819299981,40.731819299981,41.0002361999359,41.0002361999359,41.0002361999359,41.0002361999359,41.0002361999359,41.78513789991848,i,1,0.7704001998063177,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the categories have changed. The items for sorting have changed as well. The rules, however, are the same.
+
+When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. An X appears after an error - fix the error by hitting the other key. GO AS FAST AS YOU CAN.
+
+Press E or I to continue.", , ,Negative,Positive, ,3,text_trial_type_3,img_trial_type_3,0,1,1,1,6,1,13,0,41.832972900010645,,,,,,,,,,,,,,,,,,41.786469700047746,41.832972900010645,41.832972900010645,41.832972900010645,41.832972900010645,41.832972900010645,41.832972900010645,42.11746950005181,42.11746950005181,42.11746950005181,42.11746950005181,42.11746950005181,42.83706249995157,i,1,0.7083469999488443,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the categories have changed. The items for sorting have changed as well. The rules, however, are the same.
+
+When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. An X appears after an error - fix the error by hitting the other key. GO AS FAST AS YOU CAN.
+
+Press E or I to continue.", , ,Negative,Positive, ,4,text_trial_type_4,img_trial_type_4,0,1,1,1,7,0,14,1,42.88378140004352,,,,,,,,,,,,,,,,,,42.83843640005216,42.88378140004352,42.88378140004352,42.88378140004352,42.88378140004352,42.88378140004352,42.88378140004352,43.16952649992891,43.16952649992891,43.16952649992891,43.16952649992891,43.16952649992891,44.005336800124496,e,1,0.8019463999662548,None,i,1,0.46817729994654655,None,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the categories have changed. The items for sorting have changed as well. The rules, however, are the same.
+
+When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. An X appears after an error - fix the error by hitting the other key. GO AS FAST AS YOU CAN.
+
+Press E or I to continue.", , ,Negative,Positive, ,3,text_trial_type_3,img_trial_type_3,0,1,1,1,7,1,15,0,44.05142579996027,,,,,,,,,,,,,,,,,,44.00705000013113,44.05142579996027,44.05142579996027,44.05142579996027,44.05142579996027,44.05142579996027,44.05142579996027,44.33582859998569,44.33582859998569,44.33582859998569,44.33582859998569,44.33582859998569,44.97333510010503,i,1,0.6298353001475334,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the categories have changed. The items for sorting have changed as well. The rules, however, are the same.
+
+When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. An X appears after an error - fix the error by hitting the other key. GO AS FAST AS YOU CAN.
+
+Press E or I to continue.", , ,Negative,Positive, ,4,text_trial_type_4,img_trial_type_4,0,1,1,1,8,0,16,1,45.019830000121146,,,,,,,,,,,,,,,,,,44.9746195001062,45.019830000121146,45.019830000121146,45.019830000121146,45.019830000121146,45.019830000121146,45.019830000121146,45.30416529998183,45.30416529998183,45.30416529998183,45.30416529998183,45.30416529998183,45.97450969996862,e,1,0.665798099944368,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the categories have changed. The items for sorting have changed as well. The rules, however, are the same.
+
+When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. An X appears after an error - fix the error by hitting the other key. GO AS FAST AS YOU CAN.
+
+Press E or I to continue.", , ,Negative,Positive, ,4,text_trial_type_4,img_trial_type_4,0,1,1,1,8,1,17,1,46.021269500022754,,,,,,,,,,,,,,,,,,45.97585400007665,46.021269500022754,46.021269500022754,46.021269500022754,46.021269500022754,46.021269500022754,46.021269500022754,46.30534110008739,46.30534110008739,46.30534110008739,46.30534110008739,46.30534110008739,46.82414959999733,e,1,0.4882565001025796,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the categories have changed. The items for sorting have changed as well. The rules, however, are the same.
+
+When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. An X appears after an error - fix the error by hitting the other key. GO AS FAST AS YOU CAN.
+
+Press E or I to continue.", , ,Negative,Positive, ,3,text_trial_type_3,img_trial_type_3,0,1,1,1,9,0,18,0,46.870780900120735,,,,,,,,,,,,,,,,,,46.82570019993,46.870780900120735,46.870780900120735,46.870780900120735,46.870780900120735,46.870780900120735,46.870780900120735,47.156730599934235,47.156730599934235,47.156730599934235,47.156730599934235,47.156730599934235,47.77634650003165,i,1,0.5857703001238406,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the categories have changed. The items for sorting have changed as well. The rules, however, are the same.
+
+When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. An X appears after an error - fix the error by hitting the other key. GO AS FAST AS YOU CAN.
+
+Press E or I to continue.", , ,Negative,Positive, ,4,text_trial_type_4,img_trial_type_4,0,1,1,1,9,1,19,1,47.84012149996124,,,,,,,,,,,,,,,,,,47.77777100005187,47.84012149996124,47.84012149996124,47.84012149996124,47.84012149996124,47.84012149996124,47.84012149996124,48.09113429998979,48.09113429998979,48.09113429998979,48.09113429998979,48.09113429998979,48.80957140005194,e,1,0.6957026000600308,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories you saw separately now appear together. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,2,2,2,0,0,0,2,53.64611370000057,,,,,,,,48.81086089997552,49.5907568000257,49.5907568000257,49.5907568000257,49.5907568000257,49.5907568000257,49.5907568000257,49.5907568000257,51.560783599969,53.5644733000081,53.58741750009358,53.64611370000057,53.64611370000057,53.64611370000057,53.64611370000057,53.64611370000057,53.64611370000057,53.896848200121894,53.896848200121894,53.896848200121894,53.896848200121894,53.896848200121894,54.565377100137994,i,1,0.641463200096041,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories you saw separately now appear together. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,2,2,2,0,1,1,3,54.61420860001817,,,,,,,,,,,,,,,,,,54.56695550004952,54.61420860001817,54.61420860001817,54.61420860001817,54.61420860001817,54.61420860001817,54.61420860001817,54.89776449999772,54.89776449999772,54.89776449999772,54.89776449999772,54.89776449999772,55.56759919994511,e,1,0.666294900001958,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories you saw separately now appear together. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,2,2,2,0,2,2,2,55.63245199993253,,,,,,,,,,,,,,,,,,55.568792399950325,55.63245199993253,55.63245199993253,55.63245199993253,55.63245199993253,55.63245199993253,55.63245199993253,55.89854190009646,55.89854190009646,55.89854190009646,55.89854190009646,55.89854190009646,56.485416900133714,i,1,0.5844925998244435,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories you saw separately now appear together. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,2,2,2,0,3,3,3,56.532879299949855,,,,,,,,,,,,,,,,,,56.486604399979115,56.532879299949855,56.532879299949855,56.532879299949855,56.532879299949855,56.532879299949855,56.532879299949855,56.816315999953076,56.816315999953076,56.816315999953076,56.816315999953076,56.816315999953076,57.485735800117254,e,1,0.6562816998921335,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories you saw separately now appear together. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,2,2,2,1,0,4,2,57.53261559992097,,,,,,,,,,,,,,,,,,57.48689249996096,57.53261559992097,57.53261559992097,57.53261559992097,57.53261559992097,57.53261559992097,57.53261559992097,57.81820009998046,57.81820009998046,57.81820009998046,57.81820009998046,57.81820009998046,58.70416680001654,i,1,0.8748941998928785,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories you saw separately now appear together. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,2,2,2,1,1,5,0,58.75177380000241,,,,,,,,,,,,,,,,,,58.70532279997133,58.75177380000241,58.75177380000241,58.75177380000241,58.75177380000241,58.75177380000241,58.75177380000241,59.03577410010621,59.03577410010621,59.03577410010621,59.03577410010621,59.03577410010621,60.40651859994978,i,1,1.348912199959159,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories you saw separately now appear together. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,2,2,2,1,2,6,1,60.43773470004089,,,,,,,,,,,,,,,,,,60.40776410000399,60.43773470004089,60.43773470004089,60.43773470004089,60.43773470004089,60.43773470004089,60.43773470004089,60.72121839993633,60.72121839993633,60.72121839993633,60.72121839993633,60.72121839993633,61.29005039995536,e,1,0.5480570001527667,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories you saw separately now appear together. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,2,2,2,1,3,7,1,61.32141029997729,,,,,,,,,,,,,,,,,,61.29129799990915,61.32141029997729,61.32141029997729,61.32141029997729,61.32141029997729,61.32141029997729,61.32141029997729,61.60585270007141,61.60585270007141,61.60585270007141,61.60585270007141,61.60585270007141,62.075216999975964,e,1,0.46336719999089837,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories you saw separately now appear together. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,2,2,2,2,0,8,1,62.105027300072834,,,,,,,,,,,,,,,,,,62.0764248999767,62.105027300072834,62.105027300072834,62.105027300072834,62.105027300072834,62.105027300072834,62.105027300072834,62.39001570013352,62.39001570013352,62.39001570013352,62.39001570013352,62.39001570013352,62.942260399926454,e,1,0.5469268001616001,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories you saw separately now appear together. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,2,2,2,2,1,9,0,62.973360599949956,,,,,,,,,,,,,,,,,,62.94341320008971,62.973360599949956,62.973360599949956,62.973360599949956,62.973360599949956,62.973360599949956,62.973360599949956,63.25688709993847,63.25688709993847,63.25688709993847,63.25688709993847,63.25688709993847,63.925216499948874,i,1,0.6399175999686122,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories you saw separately now appear together. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,2,2,2,2,2,10,1,63.95737909991294,,,,,,,,,,,,,,,,,,63.926390199922025,63.95737909991294,63.95737909991294,63.95737909991294,63.95737909991294,63.95737909991294,63.95737909991294,64.24176910007372,64.24176910007372,64.24176910007372,64.24176910007372,64.24176910007372,65.14487519999966,e,1,0.8711155999917537,None,i,1,0.5586463001091033,None,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories you saw separately now appear together. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,2,2,2,2,3,11,0,65.17560339998454,,,,,,,,,,,,,,,,,,65.14643940003589,65.17560339998454,65.17560339998454,65.17560339998454,65.17560339998454,65.17560339998454,65.17560339998454,65.45970760006458,65.45970760006458,65.45970760006458,65.45970760006458,65.45970760006458,66.12904469994828,i,1,0.657709299819544,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories you saw separately now appear together. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,2,2,2,3,0,12,3,66.1768604000099,,,,,,,,,,,,,,,,,,66.13022210006602,66.1768604000099,66.1768604000099,66.1768604000099,66.1768604000099,66.1768604000099,66.1768604000099,66.4612859999761,66.4612859999761,66.4612859999761,66.4612859999761,66.4612859999761,67.51358189992607,e,1,1.021384800085798,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories you saw separately now appear together. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,2,2,2,3,1,13,3,67.56205900013447,,,,,,,,,,,,,,,,,,67.51473350008018,67.56205900013447,67.56205900013447,67.56205900013447,67.56205900013447,67.56205900013447,67.56205900013447,67.82978649996221,67.82978649996221,67.82978649996221,67.82978649996221,67.82978649996221,68.38142649992369,e,1,0.5214770999737084,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories you saw separately now appear together. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,2,2,2,3,2,14,2,68.42841499997303,,,,,,,,,,,,,,,,,,68.38268369995058,68.42841499997303,68.42841499997303,68.42841499997303,68.42841499997303,68.42841499997303,68.42841499997303,68.7132930001244,68.7132930001244,68.7132930001244,68.7132930001244,68.7132930001244,69.3669443000108,i,1,0.6479461998678744,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories you saw separately now appear together. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,2,2,2,3,3,15,0,69.39973890013061,,,,,,,,,,,,,,,,,,69.36811099993065,69.39973890013061,69.39973890013061,69.39973890013061,69.39973890013061,69.39973890013061,69.39973890013061,69.69686129991896,69.69686129991896,69.69686129991896,69.69686129991896,69.69686129991896,70.33314130012877,i,1,0.6290894998237491,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories you saw separately now appear together. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,2,2,2,4,0,16,0,70.36446540011093,,,,,,,,,,,,,,,,,,70.33418010012247,70.36446540011093,70.36446540011093,70.36446540011093,70.36446540011093,70.36446540011093,70.36446540011093,70.64864080003463,70.64864080003463,70.64864080003463,70.64864080003463,70.64864080003463,71.11702729994431,i,1,0.4625529998447746,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories you saw separately now appear together. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,2,2,2,4,1,17,1,71.14890299993567,,,,,,,,,,,,,,,,,,71.11819509998895,71.14890299993567,71.14890299993567,71.14890299993567,71.14890299993567,71.14890299993567,71.14890299993567,71.43338309996761,71.43338309996761,71.43338309996761,71.43338309996761,71.43338309996761,72.01835129992105,e,1,0.5498363999649882,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories you saw separately now appear together. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,2,2,2,4,2,18,2,72.06712629995309,,,,,,,,,,,,,,,,,,72.01950070005842,72.06712629995309,72.06712629995309,72.06712629995309,72.06712629995309,72.06712629995309,72.06712629995309,72.3513623001054,72.3513623001054,72.3513623001054,72.3513623001054,72.3513623001054,73.25393250002526,i,1,0.8721497999504209,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories you saw separately now appear together. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,2,2,2,4,3,19,3,73.30158940004185,,,,,,,,,,,,,,,,,,73.25512060010806,73.30158940004185,73.30158940004185,73.30158940004185,73.30158940004185,73.30158940004185,73.30158940004185,73.58505870006047,73.58505870006047,73.58505870006047,73.58505870006047,73.58505870006047,74.23821750003844,e,1,0.6229733999352902,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,3,3,3,0,0,0,3,78.82395320013165,,,,,,,,74.23943630000576,75.0188684000168,75.0188684000168,75.0188684000168,75.0188684000168,75.0188684000168,75.0188684000168,75.0188684000168,76.98935510008596,78.74201490008272,78.77570070000365,78.82395320013165,78.82395320013165,78.82395320013165,78.82395320013165,78.82395320013165,78.82395320013165,79.0581251999829,79.0581251999829,79.0581251999829,79.0581251999829,79.0581251999829,79.7448418000713,e,1,0.6758029998745769,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,3,3,3,0,1,1,3,79.79052820010111,,,,,,,,,,,,,,,,,,79.7467094999738,79.79052820010111,79.79052820010111,79.79052820010111,79.79052820010111,79.79052820010111,79.79052820010111,80.0754358000122,80.0754358000122,80.0754358000122,80.0754358000122,80.0754358000122,80.62952960003167,e,1,0.5470407998654991,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,3,3,3,0,2,2,2,80.6760726000648,,,,,,,,,,,,,,,,,,80.6308832000941,80.6760726000648,80.6760726000648,80.6760726000648,80.6760726000648,80.6760726000648,80.6760726000648,80.9596237000078,80.9596237000078,80.9596237000078,80.9596237000078,80.9596237000078,81.54594300012104,i,1,0.5517663001082838,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,3,3,3,0,3,3,1,81.5812327999156,,,,,,,,,,,,,,,,,,81.54735410003923,81.5812327999156,81.5812327999156,81.5812327999156,81.5812327999156,81.5812327999156,81.5812327999156,81.8769988999702,81.8769988999702,81.8769988999702,81.8769988999702,81.8769988999702,82.78152419999242,e,1,0.8952540999744087,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,3,3,3,1,0,4,1,82.81141770002432,,,,,,,,,,,,,,,,,,82.78332130005583,82.81141770002432,82.81141770002432,82.81141770002432,82.81141770002432,82.81141770002432,82.81141770002432,83.09591690008529,83.09591690008529,83.09591690008529,83.09591690008529,83.09591690008529,83.69825570005924,e,1,0.5702683001291007,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,3,3,3,1,1,5,2,83.7471098001115,,,,,,,,,,,,,,,,,,83.69956759992056,83.7471098001115,83.7471098001115,83.7471098001115,83.7471098001115,83.7471098001115,83.7471098001115,84.0294242000673,84.0294242000673,84.0294242000673,84.0294242000673,84.0294242000673,84.60040899994783,i,1,0.5662271999754012,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,3,3,3,1,2,6,0,84.6339913001284,,,,,,,,,,,,,,,,,,84.60168570000678,84.6339913001284,84.6339913001284,84.6339913001284,84.6339913001284,84.6339913001284,84.6339913001284,84.93012850009836,84.93012850009836,84.93012850009836,84.93012850009836,84.93012850009836,85.61801699991338,i,1,0.6802705998998135,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,3,3,3,1,3,7,1,85.64851330011152,,,,,,,,,,,,,,,,,,85.61928509990685,85.64851330011152,85.64851330011152,85.64851330011152,85.64851330011152,85.64851330011152,85.64851330011152,85.93208779999986,85.93208779999986,85.93208779999986,85.93208779999986,85.93208779999986,86.55130870011635,e,1,0.5864874001126736,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,3,3,3,2,0,8,2,86.59967270004563,,,,,,,,,,,,,,,,,,86.55267439992167,86.59967270004563,86.59967270004563,86.59967270004563,86.59967270004563,86.59967270004563,86.59967270004563,86.88252210011706,86.88252210011706,86.88252210011706,86.88252210011706,86.88252210011706,87.66930050007068,i,1,0.7613663000520319,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,3,3,3,2,1,9,2,87.71667849994265,,,,,,,,,,,,,,,,,,87.67057249997742,87.71667849994265,87.71667849994265,87.71667849994265,87.71667849994265,87.71667849994265,87.71667849994265,88.00088720000349,88.00088720000349,88.00088720000349,88.00088720000349,88.00088720000349,88.58710299991071,i,1,0.5519571001641452,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,3,3,3,2,2,10,0,88.62174970004708,,,,,,,,,,,,,,,,,,88.58872519992292,88.62174970004708,88.62174970004708,88.62174970004708,88.62174970004708,88.62174970004708,88.62174970004708,88.91877590003423,88.91877590003423,88.91877590003423,88.91877590003423,88.91877590003423,89.55438450002111,i,1,0.6145286001265049,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,3,3,3,2,3,11,3,89.60290520009585,,,,,,,,,,,,,,,,,,89.55566409998573,89.60290520009585,89.60290520009585,89.60290520009585,89.60290520009585,89.60290520009585,89.60290520009585,89.86993580008857,89.86993580008857,89.86993580008857,89.86993580008857,89.86993580008857,90.68844170006923,e,1,0.8035865998826921,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,3,3,3,3,0,12,1,90.72337749996223,,,,,,,,,,,,,,,,,,90.6897754999809,90.72337749996223,90.72337749996223,90.72337749996223,90.72337749996223,90.72337749996223,90.72337749996223,91.00476950011216,91.00476950011216,91.00476950011216,91.00476950011216,91.00476950011216,91.67385730007663,e,1,0.6379094999283552,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,3,3,3,3,1,13,1,91.70482350001112,,,,,,,,,,,,,,,,,,91.675153600052,91.70482350001112,91.70482350001112,91.70482350001112,91.70482350001112,91.70482350001112,91.70482350001112,92.00547039997764,92.00547039997764,92.00547039997764,92.00547039997764,92.00547039997764,92.70829849992879,e,1,0.6922230001073331,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,3,3,3,3,2,14,1,92.73992080008611,,,,,,,,,,,,,,,,,,92.70958309993148,92.73992080008611,92.73992080008611,92.73992080008611,92.73992080008611,92.73992080008611,92.73992080008611,93.02288820012473,93.02288820012473,93.02288820012473,93.02288820012473,93.02288820012473,93.45941259991378,e,1,0.42974409996531904,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,3,3,3,3,3,15,3,93.50697310012765,,,,,,,,,,,,,,,,,,93.46095829992555,93.50697310012765,93.50697310012765,93.50697310012765,93.50697310012765,93.50697310012765,93.50697310012765,93.7902132999152,93.7902132999152,93.7902132999152,93.7902132999152,93.7902132999152,94.52680619992316,e,1,0.7250769000966102,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,3,3,3,4,0,16,0,94.56124670011923,,,,,,,,,,,,,,,,,,94.52812719997019,94.56124670011923,94.56124670011923,94.56124670011923,94.56124670011923,94.56124670011923,94.56124670011923,94.85790430009365,94.85790430009365,94.85790430009365,94.85790430009365,94.85790430009365,95.40975770005025,i,1,0.5416907998733222,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,3,3,3,4,1,17,3,95.45971870003268,,,,,,,,,,,,,,,,,,95.41058939998038,95.45971870003268,95.45971870003268,95.45971870003268,95.45971870003268,95.45971870003268,95.45971870003268,95.72556970012374,95.72556970012374,95.72556970012374,95.72556970012374,95.72556970012374,96.54527200013399,e,1,0.8095703001599759,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,3,3,3,4,2,18,1,96.57985679991543,,,,,,,,,,,,,,,,,,96.54703489993699,96.57985679991543,96.57985679991543,96.57985679991543,96.57985679991543,96.57985679991543,96.57985679991543,96.86119400011376,96.86119400011376,96.86119400011376,96.86119400011376,96.86119400011376,97.56325759994797,e,1,0.678380599943921,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,3,3,3,4,3,19,1,97.59473220002837,,,,,,,,,,,,,,,,,,97.56463210005313,97.59473220002837,97.59473220002837,97.59473220002837,97.59473220002837,97.59473220002837,97.59473220002837,97.87910920009017,97.87910920009017,97.87910920009017,97.87910920009017,97.87910920009017,98.39766169991344,e,1,0.5138000000733882,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,3,3,3,5,0,20,3,98.44603150011972,,,,,,,,,,,,,,,,,,98.39904669998214,98.44603150011972,98.44603150011972,98.44603150011972,98.44603150011972,98.44603150011972,98.44603150011972,98.72988160001114,98.72988160001114,98.72988160001114,98.72988160001114,98.72988160001114,99.58190420013852,e,1,0.8179798000492156,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,3,3,3,5,1,21,0,99.61735190008767,,,,,,,,,,,,,,,,,,99.58318029996008,99.61735190008767,99.61735190008767,99.61735190008767,99.61735190008767,99.61735190008767,99.61735190008767,99.91376479994506,99.91376479994506,99.91376479994506,99.91376479994506,99.91376479994506,100.55035819998011,i,1,0.6190647000912577,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,3,3,3,5,2,22,2,100.59749540011398,,,,,,,,,,,,,,,,,,100.55161760002375,100.59749540011398,100.59749540011398,100.59749540011398,100.59749540011398,100.59749540011398,100.59749540011398,100.8822164000012,100.8822164000012,100.8822164000012,100.8822164000012,100.8822164000012,101.71841620001942,i,1,0.8101514000445604,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,3,3,3,5,3,23,2,101.76487100007944,,,,,,,,,,,,,,,,,,101.71977970004082,101.76487100007944,101.76487100007944,101.76487100007944,101.76487100007944,101.76487100007944,101.76487100007944,102.05017350008711,102.05017350008711,102.05017350008711,102.05017350008711,102.05017350008711,102.70253319991753,i,1,0.6277050001081079,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,3,3,3,6,0,24,2,102.74950959999114,,,,,,,,,,,,,,,,,,102.70396600011736,102.74950959999114,102.74950959999114,102.74950959999114,102.74950959999114,102.74950959999114,102.74950959999114,103.03419389994815,103.03419389994815,103.03419389994815,103.03419389994815,103.03419389994815,103.60300759994425,i,1,0.5373921999707818,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,3,3,3,6,1,25,2,103.65101139992476,,,,,,,,,,,,,,,,,,103.60437930002809,103.65101139992476,103.65101139992476,103.65101139992476,103.65101139992476,103.65101139992476,103.65101139992476,103.93507200013846,103.93507200013846,103.93507200013846,103.93507200013846,103.93507200013846,104.58792640012689,i,1,0.6214209001045674,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,3,3,3,6,2,26,1,104.62144870008342,,,,,,,,,,,,,,,,,,104.58923169993795,104.62144870008342,104.62144870008342,104.62144870008342,104.62144870008342,104.62144870008342,104.62144870008342,104.9031889999751,104.9031889999751,104.9031889999751,104.9031889999751,104.9031889999751,105.52214629994705,e,1,0.5870274000335485,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,3,3,3,6,3,27,0,105.55236400011927,,,,,,,,,,,,,,,,,,105.52350250002928,105.55236400011927,105.55236400011927,105.55236400011927,105.55236400011927,105.55236400011927,105.55236400011927,105.85310550010763,105.85310550010763,105.85310550010763,105.85310550010763,105.85310550010763,107.22492680000141,i,1,1.3604799001477659,None,e,1,0.48012729990296066,None,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,3,3,3,7,0,28,3,107.27178209996782,,,,,,,,,,,,,,,,,,107.2266867000144,107.27178209996782,107.27178209996782,107.27178209996782,107.27178209996782,107.27178209996782,107.27178209996782,107.55494739999995,107.55494739999995,107.55494739999995,107.55494739999995,107.55494739999995,108.69350460008718,e,1,1.1295543999876827,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,3,3,3,7,1,29,2,108.73927949997596,,,,,,,,,,,,,,,,,,108.69479149999097,108.73927949997596,108.73927949997596,108.73927949997596,108.73927949997596,108.73927949997596,108.73927949997596,109.02403530012816,109.02403530012816,109.02403530012816,109.02403530012816,109.02403530012816,109.67769289994612,i,1,0.6450108999852091,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,3,3,3,7,2,30,2,109.72433110000566,,,,,,,,,,,,,,,,,,109.67915609991178,109.72433110000566,109.72433110000566,109.72433110000566,109.72433110000566,109.72433110000566,109.72433110000566,110.00824839994311,110.00824839994311,110.00824839994311,110.00824839994311,110.00824839994311,110.49452339997515,i,1,0.46401740005239844,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,3,3,3,7,3,31,3,110.54268230008893,,,,,,,,,,,,,,,,,,110.49591520009562,110.54268230008893,110.54268230008893,110.54268230008893,110.54268230008893,110.54268230008893,110.54268230008893,110.82616259995848,110.82616259995848,110.82616259995848,110.82616259995848,110.82616259995848,111.44453700003214,e,1,0.5858624000102282,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,3,3,3,8,0,32,0,111.47942749992944,,,,,,,,,,,,,,,,,,111.44583939993754,111.47942749992944,111.47942749992944,111.47942749992944,111.47942749992944,111.47942749992944,111.47942749992944,111.77640480012633,111.77640480012633,111.77640480012633,111.77640480012633,111.77640480012633,112.39665320003405,i,1,0.6148362001404166,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,3,3,3,8,1,33,3,112.44523479999043,,,,,,,,,,,,,,,,,,112.39802470011637,112.44523479999043,112.44523479999043,112.44523479999043,112.44523479999043,112.44523479999043,112.44523479999043,112.72747809998691,112.72747809998691,112.72747809998691,112.72747809998691,112.72747809998691,113.53120009996928,e,1,0.7704066999722272,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,3,3,3,8,2,34,1,113.56471960013732,,,,,,,,,,,,,,,,,,113.53247440000996,113.56471960013732,113.56471960013732,113.56471960013732,113.56471960013732,113.56471960013732,113.56471960013732,113.86240150011145,113.86240150011145,113.86240150011145,113.86240150011145,113.86240150011145,114.44876540009864,e,1,0.5583304001484066,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,3,3,3,8,3,35,0,114.47873859992251,,,,,,,,,,,,,,,,,,114.45014600013383,114.47873859992251,114.47873859992251,114.47873859992251,114.47873859992251,114.47873859992251,114.47873859992251,114.76392840011977,114.76392840011977,114.76392840011977,114.76392840011977,114.76392840011977,115.85105299996212,i,1,1.0638704001903534,None,e,1,0.540757300099358,None,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,3,3,3,9,0,36,0,115.88096569990739,,,,,,,,,,,,,,,,,,115.85260950005613,115.88096569990739,115.88096569990739,115.88096569990739,115.88096569990739,115.88096569990739,115.88096569990739,116.18179970001802,116.18179970001802,116.18179970001802,116.18179970001802,116.18179970001802,116.73489079996943,i,1,0.5345370001159608,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,3,3,3,9,1,37,0,116.76439719996415,,,,,,,,,,,,,,,,,,116.7361725999508,116.76439719996415,116.76439719996415,116.76439719996415,116.76439719996415,116.76439719996415,116.76439719996415,117.04978160001338,117.04978160001338,117.04978160001338,117.04978160001338,117.04978160001338,117.56810940010473,i,1,0.49045200017280877,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,3,3,3,9,2,38,3,117.61795770004392,,,,,,,,,,,,,,,,,,117.56941769993864,117.61795770004392,117.61795770004392,117.61795770004392,117.61795770004392,117.61795770004392,117.61795770004392,117.90097289998084,117.90097289998084,117.90097289998084,117.90097289998084,117.90097289998084,118.60349010000937,e,1,0.6738293000962585,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,3,3,3,9,3,39,0,118.63781210011803,,,,,,,,,,,,,,,,,,118.60482389992103,118.63781210011803,118.63781210011803,118.63781210011803,118.63781210011803,118.63781210011803,118.63781210011803,118.91838779998943,118.91838779998943,118.91838779998943,118.91838779998943,118.91838779998943,119.48815590003505,i,1,0.5651634000241756,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,4,4,4,0,0,0,0,123.07182470010594,,,,,,,,119.48946209996939,120.26877430011518,120.26877430011518,120.26877430011518,120.26877430011518,120.26877430011518,120.26877430011518,120.26877430011518,122.23858739994466,123.0081027999986,123.03963920008391,123.07182470010594,123.07182470010594,123.07182470010594,123.07182470010594,123.07182470010594,123.07182470010594,123.3234840000514,123.3234840000514,123.3234840000514,123.3234840000514,123.3234840000514,123.95891340007074,e,1,0.6259792998898774,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,4,4,4,0,1,1,1,123.9897418001201,,,,,,,,,,,,,,,,,,123.961014600005,123.9897418001201,123.9897418001201,123.9897418001201,123.9897418001201,123.9897418001201,123.9897418001201,124.27449310012162,124.27449310012162,124.27449310012162,124.27449310012162,124.27449310012162,124.90983969997615,i,1,0.6038269000127912,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,4,4,4,1,0,2,0,124.94145249994472,,,,,,,,,,,,,,,,,,124.9113970999606,124.94145249994472,124.94145249994472,124.94145249994472,124.94145249994472,124.94145249994472,124.94145249994472,125.24126949999481,125.24126949999481,125.24126949999481,125.24126949999481,125.24126949999481,126.22745110001415,e,1,0.9535498998593539,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,4,4,4,1,1,3,1,126.25875229993835,,,,,,,,,,,,,,,,,,126.22896560002118,126.25875229993835,126.25875229993835,126.25875229993835,126.25875229993835,126.25875229993835,126.25875229993835,126.543526600115,126.543526600115,126.543526600115,126.543526600115,126.543526600115,127.1956309999805,i,1,0.6258660000748932,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,4,4,4,2,0,4,0,127.22790440008976,,,,,,,,,,,,,,,,,,127.197158300085,127.22790440008976,127.22790440008976,127.22790440008976,127.22790440008976,127.22790440008976,127.22790440008976,127.51130690006539,127.51130690006539,127.51130690006539,127.51130690006539,127.51130690006539,128.39682550006546,e,1,0.8592322000768036,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,4,4,4,2,1,5,1,128.42872019996867,,,,,,,,,,,,,,,,,,128.39832670008764,128.42872019996867,128.42872019996867,128.42872019996867,128.42872019996867,128.42872019996867,128.42872019996867,128.72863660007715,128.72863660007715,128.72863660007715,128.72863660007715,128.72863660007715,129.41476120008156,i,1,0.6568040999118239,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,4,4,4,3,0,6,1,129.4465858999174,,,,,,,,,,,,,,,,,,129.4162819001358,129.4465858999174,129.4465858999174,129.4465858999174,129.4465858999174,129.4465858999174,129.4465858999174,129.74622580013238,129.74622580013238,129.74622580013238,129.74622580013238,129.74622580013238,130.18416590010747,i,1,0.4316647001542151,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,4,4,4,3,1,7,1,130.212360000005,,,,,,,,,,,,,,,,,,130.18559330003336,130.212360000005,130.212360000005,130.212360000005,130.212360000005,130.212360000005,130.212360000005,130.51380810001865,130.51380810001865,130.51380810001865,130.51380810001865,130.51380810001865,131.06597870006226,i,1,0.5374441999010742,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,4,4,4,4,0,8,1,131.08155250013806,,,,,,,,,,,,,,,,,,131.06678290013224,131.08155250013806,131.08155250013806,131.08155250013806,131.08155250013806,131.08155250013806,131.08155250013806,131.38200900005177,131.38200900005177,131.38200900005177,131.38200900005177,131.38200900005177,132.3514497000724,i,1,0.9455504999496043,None,e,1,0.623256100108847,None,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,4,4,4,4,1,9,0,132.38330990006216,,,,,,,,,,,,,,,,,,132.35349339991808,132.38330990006216,132.38330990006216,132.38330990006216,132.38330990006216,132.38330990006216,132.38330990006216,132.6667120999191,132.6667120999191,132.6667120999191,132.6667120999191,132.6667120999191,133.40166709991172,e,1,0.7018963999580592,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,4,4,4,5,0,10,0,133.43380220001563,,,,,,,,,,,,,,,,,,133.40320960013196,133.43380220001563,133.43380220001563,133.43380220001563,133.43380220001563,133.43380220001563,133.43380220001563,133.71752419997938,133.71752419997938,133.71752419997938,133.71752419997938,133.71752419997938,134.23629690008238,e,1,0.502715399954468,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,4,4,4,5,1,11,0,134.2677533000242,,,,,,,,,,,,,,,,,,134.23756289994344,134.2677533000242,134.2677533000242,134.2677533000242,134.2677533000242,134.2677533000242,134.2677533000242,134.5682431999594,134.5682431999594,134.5682431999594,134.5682431999594,134.5682431999594,135.07137889997102,e,1,0.4861863001715392,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,4,4,4,6,0,12,1,135.10213849996217,,,,,,,,,,,,,,,,,,135.0729108999949,135.10213849996217,135.10213849996217,135.10213849996217,135.10213849996217,135.10213849996217,135.10213849996217,135.38656289991923,135.38656289991923,135.38656289991923,135.38656289991923,135.38656289991923,137.189415599918,i,1,1.7730019001755863,None,e,1,0.6069322999101132,None,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,4,4,4,6,1,13,0,137.22027159994468,,,,,,,,,,,,,,,,,,137.19123720005155,137.22027159994468,137.22027159994468,137.22027159994468,137.22027159994468,137.22027159994468,137.22027159994468,137.52190289995633,137.52190289995633,137.52190289995633,137.52190289995633,137.52190289995633,138.45729649998248,e,1,0.9036177999805659,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,4,4,4,7,0,14,1,138.49008979997598,,,,,,,,,,,,,,,,,,138.4588248000946,138.49008979997598,138.49008979997598,138.49008979997598,138.49008979997598,138.49008979997598,138.49008979997598,138.77313670003787,138.77313670003787,138.77313670003787,138.77313670003787,138.77313670003787,139.39290069998242,i,1,0.6128741998691112,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,4,4,4,7,1,15,1,139.42337989993393,,,,,,,,,,,,,,,,,,139.39451820007525,139.42337989993393,139.42337989993393,139.42337989993393,139.42337989993393,139.42337989993393,139.42337989993393,139.72347169998102,139.72347169998102,139.72347169998102,139.72347169998102,139.72347169998102,140.22797190002166,i,1,0.4948619999922812,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,4,4,4,8,0,16,1,140.25793530000374,,,,,,,,,,,,,,,,,,140.22949810000136,140.25793530000374,140.25793530000374,140.25793530000374,140.25793530000374,140.25793530000374,140.25793530000374,140.5579902001191,140.5579902001191,140.5579902001191,140.5579902001191,140.5579902001191,141.1286585999187,i,1,0.5646874001249671,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,4,4,4,8,1,17,0,141.15844210004434,,,,,,,,,,,,,,,,,,141.13016840000637,141.15844210004434,141.15844210004434,141.15844210004434,141.15844210004434,141.15844210004434,141.15844210004434,141.44343980005942,141.44343980005942,141.44343980005942,141.44343980005942,141.44343980005942,142.02985580009408,e,1,0.5837741000577807,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,4,4,4,9,0,18,1,142.05974110006355,,,,,,,,,,,,,,,,,,142.03149640001357,142.05974110006355,142.05974110006355,142.05974110006355,142.05974110006355,142.05974110006355,142.05974110006355,142.34428979991935,142.34428979991935,142.34428979991935,142.34428979991935,142.34428979991935,143.0289366999641,i,1,0.6563317000400275,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,4,4,4,9,1,19,0,143.06036020000465,,,,,,,,,,,,,,,,,,143.03043329995126,143.06036020000465,143.06036020000465,143.06036020000465,143.06036020000465,143.06036020000465,143.06036020000465,143.34524299995974,143.34524299995974,143.34524299995974,143.34524299995974,143.34524299995974,144.01463310001418,e,1,0.6611818000674248,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,4,4,4,10,0,20,0,144.0452537999954,,,,,,,,,,,,,,,,,,144.01626470009796,144.0452537999954,144.0452537999954,144.0452537999954,144.0452537999954,144.0452537999954,144.0452537999954,144.33139720000327,144.33139720000327,144.33139720000327,144.33139720000327,144.33139720000327,144.86538260011002,e,1,0.5277350000105798,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,4,4,4,10,1,21,1,144.8962068001274,,,,,,,,,,,,,,,,,,144.8669239000883,144.8962068001274,144.8962068001274,144.8962068001274,144.8962068001274,144.8962068001274,144.8962068001274,145.1818725001067,145.1818725001067,145.1818725001067,145.1818725001067,145.1818725001067,145.78347810008563,i,1,0.5962889001239091,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,4,4,4,11,0,22,1,145.814548100112,,,,,,,,,,,,,,,,,,145.78516010008752,145.814548100112,145.814548100112,145.814548100112,145.814548100112,145.814548100112,145.814548100112,146.09849769994617,146.09849769994617,146.09849769994617,146.09849769994617,146.09849769994617,146.70143659994937,i,1,0.5744555999990553,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,4,4,4,11,1,23,0,146.73188470001332,,,,,,,,,,,,,,,,,,146.70293859997764,146.73188470001332,146.73188470001332,146.73188470001332,146.73188470001332,146.73188470001332,146.73188470001332,147.0163630999159,147.0163630999159,147.0163630999159,147.0163630999159,147.0163630999159,147.6009885999374,e,1,0.5552260000258684,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,4,4,4,12,0,24,0,147.63309179991484,,,,,,,,,,,,,,,,,,147.60249219997786,147.63309179991484,147.63309179991484,147.63309179991484,147.63309179991484,147.63309179991484,147.63309179991484,147.91708009992726,147.91708009992726,147.91708009992726,147.91708009992726,147.91708009992726,148.4860839000903,e,1,0.5356654000934213,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,4,4,4,12,1,25,1,148.51718580001034,,,,,,,,,,,,,,,,,,148.4876321000047,148.51718580001034,148.51718580001034,148.51718580001034,148.51718580001034,148.51718580001034,148.51718580001034,148.81750890007243,148.81750890007243,148.81750890007243,148.81750890007243,148.81750890007243,149.67092359997332,i,1,0.8382537998259068,None,e,1,0.5918916000518948,None,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,4,4,4,13,0,26,1,149.7004956000019,,,,,,,,,,,,,,,,,,149.67277500010096,149.7004956000019,149.7004956000019,149.7004956000019,149.7004956000019,149.7004956000019,149.7004956000019,150.00177440000698,150.00177440000698,150.00177440000698,150.00177440000698,150.00177440000698,150.6887548000086,i,1,0.6802584000397474,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,4,4,4,13,1,27,1,150.71875469991937,,,,,,,,,,,,,,,,,,150.69026680011302,150.71875469991937,150.71875469991937,150.71875469991937,150.71875469991937,150.71875469991937,150.71875469991937,151.00332970009185,151.00332970009185,151.00332970009185,151.00332970009185,151.00332970009185,151.53850000002421,i,1,0.5225744000636041,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,4,4,4,14,0,28,0,151.5701071000658,,,,,,,,,,,,,,,,,,151.54003720008768,151.5701071000658,151.5701071000658,151.5701071000658,151.5701071000658,151.5701071000658,151.5701071000658,151.87093600002117,151.87093600002117,151.87093600002117,151.87093600002117,151.87093600002117,152.45706259994768,e,1,0.5531508999411017,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,4,4,4,14,1,29,0,152.48793220007792,,,,,,,,,,,,,,,,,,152.45864360011183,152.48793220007792,152.48793220007792,152.48793220007792,152.48793220007792,152.48793220007792,152.48793220007792,152.78838220005855,152.78838220005855,152.78838220005855,152.78838220005855,152.78838220005855,153.3409039999824,e,1,0.5206208999734372,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,4,4,4,15,0,30,1,153.37192129995674,,,,,,,,,,,,,,,,,,153.3423872999847,153.37192129995674,153.37192129995674,153.37192129995674,153.37192129995674,153.37192129995674,153.37192129995674,153.65662369993515,153.65662369993515,153.65662369993515,153.65662369993515,153.65662369993515,154.17496610013768,i,1,0.5007227999158204,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,4,4,4,15,1,31,0,154.2061715000309,,,,,,,,,,,,,,,,,,154.17647690000013,154.2061715000309,154.2061715000309,154.2061715000309,154.2061715000309,154.2061715000309,154.2061715000309,154.4909002999775,154.4909002999775,154.4909002999775,154.4909002999775,154.4909002999775,155.09334439993836,e,1,0.595915799960494,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,4,4,4,16,0,32,1,155.12401250004768,,,,,,,,,,,,,,,,,,155.09491989994422,155.12401250004768,155.12401250004768,155.12401250004768,155.12401250004768,155.12401250004768,155.12401250004768,155.40842440002598,155.40842440002598,155.40842440002598,155.40842440002598,155.40842440002598,156.24465700006112,i,1,0.807365900138393,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,4,4,4,16,1,33,0,156.27511909999885,,,,,,,,,,,,,,,,,,156.24626210005954,156.27511909999885,156.27511909999885,156.27511909999885,156.27511909999885,156.27511909999885,156.27511909999885,156.5598011999391,156.5598011999391,156.5598011999391,156.5598011999391,156.5598011999391,157.1628787999507,e,1,0.5814171000383794,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,4,4,4,17,0,34,0,157.19316889997572,,,,,,,,,,,,,,,,,,157.16447119996883,157.19316889997572,157.19316889997572,157.19316889997572,157.19316889997572,157.19316889997572,157.19316889997572,157.47787640010938,157.47787640010938,157.47787640010938,157.47787640010938,157.47787640010938,157.94637829996645,e,1,0.4573712998535484,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,4,4,4,17,1,35,1,157.97705040010624,,,,,,,,,,,,,,,,,,157.94801530009136,157.97705040010624,157.97705040010624,157.97705040010624,157.97705040010624,157.97705040010624,157.97705040010624,158.26159060001373,158.26159060001373,158.26159060001373,158.26159060001373,158.26159060001373,158.7809900001157,i,1,0.5079665000084788,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,2,text_trial_type_2,img_trial_type_2,0,4,4,4,18,0,36,1,158.81126930005848,,,,,,,,,,,,,,,,,,158.78258779994212,158.81126930005848,158.81126930005848,158.81126930005848,158.81126930005848,158.81126930005848,158.81126930005848,159.11181070003659,159.11181070003659,159.11181070003659,159.11181070003659,159.11181070003659,159.64796540001407,i,1,0.5146979000419378,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,4,4,4,18,1,37,0,159.67860360001214,,,,,,,,,,,,,,,,,,159.64950850000605,159.67860360001214,159.67860360001214,159.67860360001214,159.67860360001214,159.67860360001214,159.67860360001214,159.97864639991894,159.97864639991894,159.97864639991894,159.97864639991894,159.97864639991894,160.59975850000046,e,1,0.6177900000475347,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,4,4,4,19,0,38,0,160.62939659995027,,,,,,,,,,,,,,,,,,160.60147160012275,160.62939659995027,160.62939659995027,160.62939659995027,160.62939659995027,160.62939659995027,160.62939659995027,160.9306862000376,160.9306862000376,160.9306862000376,160.9306862000376,160.9306862000376,161.41678320011124,e,1,0.4588514999486506,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.
+
+Use the E and I keys to catgorize items left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled, , , ,1,text_trial_type_1,img_trial_type_1,0,4,4,4,19,1,39,0,161.4479871999938,,,,,,,,,,,,,,,,,,161.4182712000329,161.4479871999938,161.4479871999938,161.4479871999938,161.4479871999938,161.4479871999938,161.4479871999938,161.73239429993555,161.73239429993555,161.73239429993555,161.73239429993555,161.73239429993555,162.26890529994853,e,1,0.517602400155738,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories now appear together in a new configuration. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,5,5,5,0,0,0,0,179.5000221999362,,,,,,,,162.2703416000586,163.05024909996428,163.05024909996428,163.05024909996428,163.05024909996428,163.05024909996428,163.05024909996428,163.05024909996428,165.0188239000272,179.43640130013227,179.46692280005664,179.5000221999362,179.5000221999362,179.5000221999362,179.5000221999362,179.5000221999362,179.5000221999362,179.75196380005218,179.75196380005218,179.75196380005218,179.75196380005218,179.75196380005218,180.52083229995333,e,1,0.755757600069046,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories now appear together in a new configuration. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,5,5,5,0,1,1,0,180.55190890002996,,,,,,,,,,,,,,,,,,180.52247359999456,180.55190890002996,180.55190890002996,180.55190890002996,180.55190890002996,180.55190890002996,180.55190890002996,180.8525831999723,180.8525831999723,180.8525831999723,180.8525831999723,180.8525831999723,181.34023500001058,e,1,0.4830931001342833,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories now appear together in a new configuration. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,5,5,5,0,2,2,3,181.40461890003644,,,,,,,,,,,,,,,,,,181.34136940003373,181.40461890003644,181.40461890003644,181.40461890003644,181.40461890003644,181.40461890003644,181.40461890003644,181.6699356001336,181.6699356001336,181.6699356001336,181.6699356001336,181.6699356001336,182.25546719995327,e,1,0.5800841001328081,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories now appear together in a new configuration. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,5,5,5,0,3,3,3,182.30432919994928,,,,,,,,,,,,,,,,,,182.25671479990706,182.30432919994928,182.30432919994928,182.30432919994928,182.30432919994928,182.30432919994928,182.30432919994928,182.58853320009075,182.58853320009075,182.58853320009075,182.58853320009075,182.58853320009075,183.10674640000798,e,1,0.49577139993198216,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories now appear together in a new configuration. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,5,5,5,1,0,4,0,183.1420360999182,,,,,,,,,,,,,,,,,,183.1079911000561,183.1420360999182,183.1420360999182,183.1420360999182,183.1420360999182,183.1420360999182,183.1420360999182,183.4384087000508,183.4384087000508,183.4384087000508,183.4384087000508,183.4384087000508,183.95904450002126,e,1,0.5052065001800656,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories now appear together in a new configuration. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,5,5,5,1,1,5,1,183.98938950011507,,,,,,,,,,,,,,,,,,183.95999200013466,183.98938950011507,183.98938950011507,183.98938950011507,183.98938950011507,183.98938950011507,183.98938950011507,184.27372530009598,184.27372530009598,184.27372530009598,184.27372530009598,184.27372530009598,185.17537860013545,i,1,0.8961477999109775,None,e,1,0.6181658999994397,None,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories now appear together in a new configuration. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,5,5,5,1,2,6,0,185.20534919993952,,,,,,,,,,,,,,,,,,185.1769133999478,185.20534919993952,185.20534919993952,185.20534919993952,185.20534919993952,185.20534919993952,185.20534919993952,185.4913790000137,185.4913790000137,185.4913790000137,185.4913790000137,185.4913790000137,186.22747429995798,e,1,0.7174641001038253,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories now appear together in a new configuration. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,5,5,5,1,3,7,3,186.27641219994985,,,,,,,,,,,,,,,,,,186.22862700000405,186.27641219994985,186.27641219994985,186.27641219994985,186.27641219994985,186.27641219994985,186.27641219994985,186.5426058000885,186.5426058000885,186.5426058000885,186.5426058000885,186.5426058000885,187.22853909991682,e,1,0.6659450000151992,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories now appear together in a new configuration. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,5,5,5,2,0,8,2,187.2764926000964,,,,,,,,,,,,,,,,,,187.22972679999657,187.2764926000964,187.2764926000964,187.2764926000964,187.2764926000964,187.2764926000964,187.2764926000964,187.56080699991435,187.56080699991435,187.56080699991435,187.56080699991435,187.56080699991435,188.14653209992684,i,1,0.5816674998495728,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories now appear together in a new configuration. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,5,5,5,2,1,9,3,188.19389330013655,,,,,,,,,,,,,,,,,,188.14768339996226,188.19389330013655,188.19389330013655,188.19389330013655,188.19389330013655,188.19389330013655,188.19389330013655,188.47861719992943,188.47861719992943,188.47861719992943,188.47861719992943,188.47861719992943,189.18054089997895,e,1,0.6688562999479473,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories now appear together in a new configuration. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,5,5,5,2,2,10,2,189.22934600012377,,,,,,,,,,,,,,,,,,189.1816982999444,189.22934600012377,189.22934600012377,189.22934600012377,189.22934600012377,189.22934600012377,189.22934600012377,189.49650530004874,189.49650530004874,189.49650530004874,189.49650530004874,189.49650530004874,190.06575020006858,i,1,0.5396017997991294,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories now appear together in a new configuration. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,5,5,5,2,3,11,0,190.09999340004288,,,,,,,,,,,,,,,,,,190.0670356999617,190.09999340004288,190.09999340004288,190.09999340004288,190.09999340004288,190.09999340004288,190.09999340004288,190.3960512999911,190.3960512999911,190.3960512999911,190.3960512999911,190.3960512999911,191.41602050000802,e,1,1.0124580999836326,None,i,1,0.5494236999657005,None,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories now appear together in a new configuration. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,5,5,5,3,0,12,1,191.44780019996688,,,,,,,,,,,,,,,,,,191.41733919992112,191.44780019996688,191.44780019996688,191.44780019996688,191.44780019996688,191.44780019996688,191.44780019996688,191.74796870001592,191.74796870001592,191.74796870001592,191.74796870001592,191.74796870001592,192.6012997000944,i,1,0.8465501999016851,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories now appear together in a new configuration. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,5,5,5,3,1,13,1,192.63224319997244,,,,,,,,,,,,,,,,,,192.6025304000359,192.63224319997244,192.63224319997244,192.63224319997244,192.63224319997244,192.63224319997244,192.63224319997244,192.91648219991475,192.91648219991475,192.91648219991475,192.91648219991475,192.91648219991475,193.51872440008447,i,1,0.576208199840039,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories now appear together in a new configuration. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,5,5,5,3,2,14,3,193.58368250005879,,,,,,,,,,,,,,,,,,193.51990790013224,193.58368250005879,193.58368250005879,193.58368250005879,193.58368250005879,193.58368250005879,193.58368250005879,193.85040490003303,193.85040490003303,193.85040490003303,193.85040490003303,193.85040490003303,195.1206473999191,e,1,1.2544178999960423,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories now appear together in a new configuration. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,5,5,5,3,3,15,1,195.15521080000326,,,,,,,,,,,,,,,,,,195.1218236000277,195.15521080000326,195.15521080000326,195.15521080000326,195.15521080000326,195.15521080000326,195.15521080000326,195.45139830000699,195.45139830000699,195.45139830000699,195.45139830000699,195.45139830000699,196.7058854000643,i,1,1.2421816000714898,None,e,1,0.7315761998761445,None,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories now appear together in a new configuration. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,5,5,5,4,0,16,2,196.75365260010585,,,,,,,,,,,,,,,,,,196.7073125001043,196.75365260010585,196.75365260010585,196.75365260010585,196.75365260010585,196.75365260010585,196.75365260010585,197.03693430009298,197.03693430009298,197.03693430009298,197.03693430009298,197.03693430009298,198.75728149991482,i,1,1.695542600005865,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories now appear together in a new configuration. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,5,5,5,4,1,17,2,198.80517040006816,,,,,,,,,,,,,,,,,,198.7584460999351,198.80517040006816,198.80517040006816,198.80517040006816,198.80517040006816,198.80517040006816,198.80517040006816,199.07353330007754,199.07353330007754,199.07353330007754,199.07353330007754,199.07353330007754,199.5431953999214,i,1,0.45149709982797503,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories now appear together in a new configuration. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,5,5,5,4,2,18,1,199.57628839998506,,,,,,,,,,,,,,,,,,199.54422420007177,199.57628839998506,199.57628839998506,199.57628839998506,199.57628839998506,199.57628839998506,199.57628839998506,199.85709269996732,199.85709269996732,199.85709269996732,199.85709269996732,199.85709269996732,200.72729429998435,i,1,0.85465979995206,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"See above, the four categories now appear together in a new configuration. Remember, each item belongs to only one group.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,5,5,5,4,3,19,2,200.77524170000106,,,,,,,,,,,,,,,,,,200.7285513000097,200.77524170000106,200.77524170000106,200.77524170000106,200.77524170000106,200.77524170000106,200.77524170000106,201.05703740008175,201.05703740008175,201.05703740008175,201.05703740008175,201.05703740008175,202.1950380001217,i,1,1.135051399935037,None,e,1,0.7634397998917848,None,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,6,6,6,0,0,0,3,207.26491370005533,,,,,,,,202.19610100006685,202.96209440007806,202.96209440007806,202.96209440007806,202.96209440007806,202.96209440007806,202.96209440007806,202.96209440007806,204.94605279993266,207.21670119999908,207.2378871999681,207.26491370005533,207.26491370005533,207.26491370005533,207.26491370005533,207.26491370005533,207.26491370005533,207.53280310006812,207.53280310006812,207.53280310006812,207.53280310006812,207.53280310006812,208.25286510004662,e,1,0.7124006000813097,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,6,6,6,0,1,1,3,208.299007399939,,,,,,,,,,,,,,,,,,208.25480769993737,208.299007399939,208.299007399939,208.299007399939,208.299007399939,208.299007399939,208.299007399939,208.58344350010157,208.58344350010157,208.58344350010157,208.58344350010157,208.58344350010157,209.15340190008283,e,1,0.5504007998388261,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,6,6,6,0,2,2,0,209.18693919992074,,,,,,,,,,,,,,,,,,209.1547220000066,209.18693919992074,209.18693919992074,209.18693919992074,209.18693919992074,209.18693919992074,209.18693919992074,209.48427950008772,209.48427950008772,209.48427950008772,209.48427950008772,209.48427950008772,210.00289890007116,e,1,0.5088380998931825,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,6,6,6,0,3,3,2,210.0513091001194,,,,,,,,,,,,,,,,,,210.0043558999896,210.0513091001194,210.0513091001194,210.0513091001194,210.0513091001194,210.0513091001194,210.0513091001194,210.3190276999958,210.3190276999958,210.3190276999958,210.3190276999958,210.3190276999958,211.00509890005924,i,1,0.6589197998400778,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,6,6,6,1,0,4,0,211.03979180008173,,,,,,,,,,,,,,,,,,211.006378200138,211.03979180008173,211.03979180008173,211.03979180008173,211.03979180008173,211.03979180008173,211.03979180008173,211.33553509996273,211.33553509996273,211.33553509996273,211.33553509996273,211.33553509996273,212.03985709999688,e,1,0.6965379000175744,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,6,6,6,1,1,5,1,212.06886969995685,,,,,,,,,,,,,,,,,,212.0411521999631,212.06886969995685,212.06886969995685,212.06886969995685,212.06886969995685,212.06886969995685,212.06886969995685,212.35427869996056,212.35427869996056,212.35427869996056,212.35427869996056,212.35427869996056,213.00731809996068,i,1,0.6277664001099765,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,6,6,6,1,2,6,2,213.05518070003018,,,,,,,,,,,,,,,,,,213.00870210002176,213.05518070003018,213.05518070003018,213.05518070003018,213.05518070003018,213.05518070003018,213.05518070003018,213.33874440006912,213.33874440006912,213.33874440006912,213.33874440006912,213.33874440006912,214.75831539998762,i,1,1.4074649000540376,None,e,1,0.8128833998925984,None,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,6,6,6,1,3,7,1,214.79308640002273,,,,,,,,,,,,,,,,,,214.7601487999782,214.79308640002273,214.79308640002273,214.79308640002273,214.79308640002273,214.79308640002273,214.79308640002273,215.09007459995337,215.09007459995337,215.09007459995337,215.09007459995337,215.09007459995337,216.02706389990635,i,1,0.9064728000666946,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,6,6,6,2,0,8,2,216.07415669993497,,,,,,,,,,,,,,,,,,216.0290123000741,216.07415669993497,216.07415669993497,216.07415669993497,216.07415669993497,216.07415669993497,216.07415669993497,216.35804220009595,216.35804220009595,216.35804220009595,216.35804220009595,216.35804220009595,216.9618790000677,i,1,0.5718906000256538,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,6,6,6,2,1,9,1,216.99622400011867,,,,,,,,,,,,,,,,,,216.9632592999842,216.99622400011867,216.99622400011867,216.99622400011867,216.99622400011867,216.99622400011867,216.99622400011867,217.27652320009656,217.27652320009656,217.27652320009656,217.27652320009656,217.27652320009656,217.8296205000952,i,1,0.518616900080815,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,6,6,6,2,2,10,1,217.85887699993327,,,,,,,,,,,,,,,,,,217.83094889996573,217.85887699993327,217.85887699993327,217.85887699993327,217.85887699993327,217.85887699993327,217.85887699993327,218.14522449998185,218.14522449998185,218.14522449998185,218.14522449998185,218.14522449998185,218.7475632999558,i,1,0.595024700043723,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,6,6,6,2,3,11,0,218.77592610009015,,,,,,,,,,,,,,,,,,218.74901250004768,218.77592610009015,218.77592610009015,218.77592610009015,218.77592610009015,218.77592610009015,218.77592610009015,219.0778139999602,219.0778139999602,219.0778139999602,219.0778139999602,219.0778139999602,219.71365769999102,e,1,0.6145677000749856,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,6,6,6,3,0,12,3,219.7622273999732,,,,,,,,,,,,,,,,,,219.7149271001108,219.7622273999732,219.7622273999732,219.7622273999732,219.7622273999732,219.7622273999732,219.7622273999732,220.04552899999544,220.04552899999544,220.04552899999544,220.04552899999544,220.04552899999544,220.58112050010823,e,1,0.5309524000622332,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,6,6,6,3,1,13,2,220.63028219994158,,,,,,,,,,,,,,,,,,220.58244120003656,220.63028219994158,220.63028219994158,220.63028219994158,220.63028219994158,220.63028219994158,220.63028219994158,220.9136725999415,220.9136725999415,220.9136725999415,220.9136725999415,220.9136725999415,221.5504324999638,i,1,0.6177678999956697,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,6,6,6,3,2,14,3,221.59672780008987,,,,,,,,,,,,,,,,,,221.55172009998932,221.59672780008987,221.59672780008987,221.59672780008987,221.59672780008987,221.59672780008987,221.59672780008987,221.8803991000168,221.8803991000168,221.8803991000168,221.8803991000168,221.8803991000168,222.46863789996132,e,1,0.5749866999685764,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,6,6,6,3,3,15,0,222.501493900083,,,,,,,,,,,,,,,,,,222.47000540001318,222.501493900083,222.501493900083,222.501493900083,222.501493900083,222.501493900083,222.501493900083,222.7826205000747,222.7826205000747,222.7826205000747,222.7826205000747,222.7826205000747,223.802424200112,e,1,1.0049808002077043,None,i,1,0.5676243000198156,None,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,6,6,6,4,0,16,0,223.83308329991996,,,,,,,,,,,,,,,,,,223.80393359996378,223.83308329991996,223.83308329991996,223.83308329991996,223.83308329991996,223.83308329991996,223.83308329991996,224.11720239999704,224.11720239999704,224.11720239999704,224.11720239999704,224.11720239999704,224.6196964001283,e,1,0.48850769991986454,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,6,6,6,4,1,17,0,224.6501341999974,,,,,,,,,,,,,,,,,,224.62108379998244,224.6501341999974,224.6501341999974,224.6501341999974,224.6501341999974,224.6501341999974,224.6501341999974,224.95030959998257,224.95030959998257,224.95030959998257,224.95030959998257,224.95030959998257,225.48683890001848,e,1,0.5090999000240117,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,6,6,6,4,2,18,2,225.53484420012683,,,,,,,,,,,,,,,,,,225.4881047999952,225.53484420012683,225.53484420012683,225.53484420012683,225.53484420012683,225.53484420012683,225.53484420012683,225.81852480000816,225.81852480000816,225.81852480000816,225.81852480000816,225.81852480000816,226.737929899944,i,1,0.9169477000832558,None,e,1,0.600000400096178,None,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,6,6,6,4,3,19,2,226.78666159999557,,,,,,,,,,,,,,,,,,226.73938430007547,226.78666159999557,226.78666159999557,226.78666159999557,226.78666159999557,226.78666159999557,226.78666159999557,227.07071750005707,227.07071750005707,227.07071750005707,227.07071750005707,227.07071750005707,227.5223598999437,i,1,0.41838970012031496,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,6,6,6,5,0,20,1,227.55737509997562,,,,,,,,,,,,,,,,,,227.52362370002083,227.55737509997562,227.55737509997562,227.55737509997562,227.55737509997562,227.55737509997562,227.55737509997562,227.8542746999301,227.8542746999301,227.8542746999301,227.8542746999301,227.8542746999301,228.6738813999109,i,1,0.7849134001880884,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,6,6,6,5,1,21,3,228.7230630000122,,,,,,,,,,,,,,,,,,228.67520270007662,228.7230630000122,228.7230630000122,228.7230630000122,228.7230630000122,228.7230630000122,228.7230630000122,229.00419649994,229.00419649994,229.00419649994,229.00419649994,229.00419649994,230.01013420009986,e,1,0.9709582000505179,None,i,1,0.47283530002459884,None,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,6,6,6,5,2,22,1,230.04355340008624,,,,,,,,,,,,,,,,,,230.01169529999606,230.04355340008624,230.04355340008624,230.04355340008624,230.04355340008624,230.04355340008624,230.04355340008624,230.32402950013056,230.32402950013056,230.32402950013056,230.32402950013056,230.32402950013056,230.99367540003732,i,1,0.6456347999628633,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,6,6,6,5,3,23,3,231.04225190007128,,,,,,,,,,,,,,,,,,230.9949831000995,231.04225190007128,231.04225190007128,231.04225190007128,231.04225190007128,231.04225190007128,231.04225190007128,231.30917240004055,231.30917240004055,231.30917240004055,231.30917240004055,231.30917240004055,232.12853830005042,e,1,0.785900300135836,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,6,6,6,6,0,24,1,232.16146510001272,,,,,,,,,,,,,,,,,,232.1298342999071,232.16146510001272,232.16146510001272,232.16146510001272,232.16146510001272,232.16146510001272,232.16146510001272,232.4581746000331,232.4581746000331,232.4581746000331,232.4581746000331,232.4581746000331,233.31262360000983,i,1,0.8318948999512941,None,e,1,0.5303910998627543,None,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,6,6,6,6,1,25,3,233.3605430999305,,,,,,,,,,,,,,,,,,233.31409880006686,233.3605430999305,233.3605430999305,233.3605430999305,233.3605430999305,233.3605430999305,233.3605430999305,233.64387629996054,233.64387629996054,233.64387629996054,233.64387629996054,233.64387629996054,234.71441520005465,e,1,1.0428369001019746,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,6,6,6,6,2,26,2,234.76187760010362,,,,,,,,,,,,,,,,,,234.7157312000636,234.76187760010362,234.76187760010362,234.76187760010362,234.76187760010362,234.76187760010362,234.76187760010362,235.02946670004167,235.02946670004167,235.02946670004167,235.02946670004167,235.02946670004167,235.71602970012464,i,1,0.6665405000094324,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,6,6,6,6,3,27,1,235.7492686000187,,,,,,,,,,,,,,,,,,235.71729880012572,235.7492686000187,235.7492686000187,235.7492686000187,235.7492686000187,235.7492686000187,235.7492686000187,236.04607199993916,236.04607199993916,236.04607199993916,236.04607199993916,236.04607199993916,236.949424700113,i,1,0.882717699976638,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,6,6,6,7,0,28,1,236.9804005001206,,,,,,,,,,,,,,,,,,236.95073119993322,236.9804005001206,236.9804005001206,236.9804005001206,236.9804005001206,236.9804005001206,236.9804005001206,237.26533100008965,237.26533100008965,237.26533100008965,237.26533100008965,237.26533100008965,237.81773050012998,i,1,0.5449753999710083,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,6,6,6,7,1,29,0,237.8478965999093,,,,,,,,,,,,,,,,,,237.81898170011118,237.8478965999093,237.8478965999093,237.8478965999093,237.8478965999093,237.8478965999093,237.8478965999093,238.13280460005626,238.13280460005626,238.13280460005626,238.13280460005626,238.13280460005626,239.03471380006522,e,1,0.8791693998500705,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,6,6,6,7,2,30,2,239.08348609996028,,,,,,,,,,,,,,,,,,239.03598170005716,239.08348609996028,239.08348609996028,239.08348609996028,239.08348609996028,239.08348609996028,239.08348609996028,239.36672789999284,239.36672789999284,239.36672789999284,239.36672789999284,239.36672789999284,240.11900880001485,i,1,0.7194362999871373,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,6,6,6,7,3,31,2,240.16899779997766,,,,,,,,,,,,,,,,,,240.1202789999079,240.16899779997766,240.16899779997766,240.16899779997766,240.16899779997766,240.16899779997766,240.16899779997766,240.4517701000441,240.4517701000441,240.4517701000441,240.4517701000441,240.4517701000441,241.0212717000395,i,1,0.5545042001176625,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,2,text_trial_type_2,img_trial_type_2,0,6,6,6,8,0,32,1,241.05604210007004,,,,,,,,,,,,,,,,,,241.02263369993307,241.05604210007004,241.05604210007004,241.05604210007004,241.05604210007004,241.05604210007004,241.05604210007004,241.3517664000392,241.3517664000392,241.3517664000392,241.3517664000392,241.3517664000392,242.54027170012705,i,1,1.1653239999432117,None,e,1,0.6218719000462443,None,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,6,6,6,8,1,33,0,242.57069920003414,,,,,,,,,,,,,,,,,,242.5417879000306,242.57069920003414,242.57069920003414,242.57069920003414,242.57069920003414,242.57069920003414,242.57069920003414,242.87041920004413,242.87041920004413,242.87041920004413,242.87041920004413,242.87041920004413,243.53991620009765,e,1,0.6520387998316437,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,6,6,6,8,2,34,0,243.57045700005256,,,,,,,,,,,,,,,,,,243.54118319996633,243.57045700005256,243.57045700005256,243.57045700005256,243.57045700005256,243.57045700005256,243.57045700005256,243.85544529999606,243.85544529999606,243.85544529999606,243.85544529999606,243.85544529999606,244.69244179991074,e,1,0.8318713998887688,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,6,6,6,8,3,35,3,244.74032089998946,,,,,,,,,,,,,,,,,,244.69367559999228,244.74032089998946,244.74032089998946,244.74032089998946,244.74032089998946,244.74032089998946,244.74032089998946,245.02312889997847,245.02312889997847,245.02312889997847,245.02312889997847,245.02312889997847,245.5601151001174,e,1,0.5296127998735756,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,6,6,6,9,0,36,3,245.60744430008344,,,,,,,,,,,,,,,,,,245.561478999909,245.60744430008344,245.60744430008344,245.60744430008344,245.60744430008344,245.60744430008344,245.60744430008344,245.87481550010853,245.87481550010853,245.87481550010853,245.87481550010853,245.87481550010853,246.34456719993614,e,1,0.4503996002022177,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,4,text_trial_type_4,img_trial_type_4,0,6,6,6,9,1,37,3,246.39085870003328,,,,,,,,,,,,,,,,,,246.34614620008506,246.39085870003328,246.39085870003328,246.39085870003328,246.39085870003328,246.39085870003328,246.39085870003328,246.65906689991243,246.65906689991243,246.65906689991243,246.65906689991243,246.65906689991243,247.22848240006715,e,1,0.54468910000287,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,1,text_trial_type_1,img_trial_type_1,0,6,6,6,9,2,38,0,247.2617902001366,,,,,,,,,,,,,,,,,,247.22984559996985,247.2617902001366,247.2617902001366,247.2617902001366,247.2617902001366,247.2617902001366,247.2617902001366,247.55844100005925,247.55844100005925,247.55844100005925,247.55844100005925,247.55844100005925,248.38048089994118,e,1,0.8163956000935286,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+"Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.
+
+The green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.
+
+Press E or I to continue.",Disabled,Abled,Negative,Positive,or,3,text_trial_type_3,img_trial_type_3,0,6,6,6,9,3,39,2,248.42716219997965,,,,,,,,,,,,,,,,,,248.38176660006866,248.42716219997965,248.42716219997965,248.42716219997965,248.42716219997965,248.42716219997965,248.42716219997965,248.71070239995606,248.71070239995606,248.71070239995606,248.71070239995606,248.71070239995606,249.59681189991534,i,1,0.8637325998861343,None,None,0,,,,,,female,20,00007,2023-11-30_18h57.53.826,IAT,2023.2.3,59.91755343251639,2023-11-30 18h58.22.395676 +0530,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,249.59788109990768,250.36306739994325,253.34991870005615,,,,,,,,,
